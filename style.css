@@ -1,62 +1,52 @@
-.body{
-    background: #373E40;
-
+.body {
+  background: #373e40;
 }
 header {
-    background:  #092A29;
-    text-align: center;
-    border-radius: 30px;
-    
+  background: #092a29;
+  text-align: center;
+  border-radius: 30px;
 }
-section{
-    background: #092A29;
-    text-align: center;
-    border-radius: 25px;
-    border-style: groove;
-    padding-left: 25px;
-    padding-right: 25px;
-    
-
-
+section {
+  background: #092a29;
+  text-align: center;
+  border-radius: 25px;
+  border-style: groove;
+  padding-left: 25px;
+  padding-right: 25px;
 }
 
-.first-header{
-    color:rgb(191, 191, 207);
-    font-style: italic;
-    height: 80px;
-    text-align: center;
-    
-
-    
+.first-header {
+  color: rgb(191, 191, 207);
+  font-style: italic;
+  height: 80px;
+  text-align: center;
 }
-.second-header{
-    color: rgb(191, 191, 207);
-    text-align: center;
-    font-size: 30px;
+.second-header {
+  color: rgb(191, 191, 207);
+  text-align: center;
+  font-size: 30px;
 }
-.third-header{
-    color:  #D62839;
-    text-align: center;
+.third-header {
+  color: #d62839;
+  text-align: center;
 }
 
-nav a{
-    color: lightseagreen;
+nav a {
+  color: lightseagreen;
 }
- a{
-    color: #F6511D;
+a {
+  color: #f6511d;
 }
-p{
-    color: rgb(249, 255, 255);
-    text-align: center;
-    font-style: oblique;
-    
+p {
+  color: rgb(249, 255, 255);
+  text-align: center;
+  font-style: oblique;
 }
-.lapislazuli-footer{
-    text-align: center;
-    background: #33658A;
-    border-radius: 25px;
-    border-style: groove;
-    padding-left: 25px;
-    padding-right: 25px;
-   
+.lapislazuli-footer {
+  text-align: center;
+  background: #33658a;
+  border-radius: 25px;
+  border-style: groove;
+  padding-left: 25px;
+  padding-right: 25px;
 }
