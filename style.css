@@ -1,10 +1,20 @@
 .body {
   background: #373e40;
 }
-header {
-  background: #092a29;
-  text-align: center;
-  border-radius: 30px;
+.navigation{
+    background:#4BA3C3;
+    padding: 16px;
+    border-radius: 10px;
+    font-size: 18px;
+}
+.navigation__link{
+    color: #D62839;
+    display: inline-block;
+    margin-left: 10px;
+}
+.navigation__link--homepage{
+    background: khaki;
+    color: indigo;
 }
 section {
   background: #092a29;
@@ -29,13 +39,6 @@ section {
 .third-header {
   color: #d62839;
   text-align: center;
-}
-
-nav a {
-  color: lightseagreen;
-}
-a {
-  color: #f6511d;
 }
 p {
   color: rgb(249, 255, 255);
