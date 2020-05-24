@@ -1,11 +1,15 @@
 .body {
-  background: #373e40;
+  background: #A6CFD5;
+  padding: 10px;
+
+  
 }
 .navigation{
     background:#4BA3C3;
     padding: 16px;
     border-radius: 10px;
     font-size: 18px;
+   
 }
 .navigation__link{
     color: #D62839;
@@ -16,40 +20,24 @@
     background: khaki;
     color: indigo;
 }
-section {
-  background: #092a29;
-  text-align: center;
-  border-radius: 25px;
-  border-style: groove;
-  padding-left: 25px;
-  padding-right: 25px;
+.main{
+    max-width: 1000px;
+    margin: auto;
 }
-
-.first-header {
-  color: rgb(191, 191, 207);
-  font-style: italic;
-  height: 80px;
-  text-align: center;
+.resume{
+    background: lightcoral;
+    position: relative;
 }
-.second-header {
-  color: rgb(191, 191, 207);
-  text-align: center;
-  font-size: 30px;
+.resume__header{
+    background: lightseagreen;
+    box-sizing: border-box;
 }
-.third-header {
-  color: #d62839;
-  text-align: center;
+.resume__image{
+    border-radius: 50%;
+    padding: 4px;
 }
-p {
-  color: rgb(249, 255, 255);
-  text-align: center;
-  font-style: oblique;
-}
-.lapislazuli-footer {
-  text-align: center;
-  background: #33658a;
-  border-radius: 25px;
-  border-style: groove;
-  padding-left: 25px;
-  padding-right: 25px;
+.resume__paragraph{
+   display: inline-block;
+   padding: 4px;
+   
 }
